@@ -87,6 +87,24 @@ system-health-monitor/
 - Export reports in JSON/CSV
 
 ---
+## 📷 Screenshots
+
+### ✅ Normal Run (System OK)
+![Normal Run](Screenshots/1.NormalOKStatus.png)
+
+### ⚠️ Alert Run (Threshold Exceeded)
+![Alert Run](Screenshots/2.AlertStatus1.png)
+
+### ⚠️ Alert Run (Threshold Exceeded)
+![Alert Run](Screenshots/3.AlertStatus2.png)
+
+### 📝 Log File Entries
+![Log File](Screenshots/4.LogFiles.png)
+
+### ⏰ Cron Job Setup
+![Cron Setup](Screenshots/5.Crontab.png)
+
+---
 
 ## 👤 Author
 - **Bhavani R**  

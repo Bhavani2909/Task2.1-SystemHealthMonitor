@@ -89,8 +89,8 @@ system-health-monitor/
 ---
 
 ## 👤 Author
-- **Your Name**  
-- GitHub: [@your-username](https://github.com/your-username)
+- **Bhavani R**  
+- GitHub: https://github.com/Bhavani2909
 
 ---
 

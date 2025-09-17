@@ -29,7 +29,7 @@ If any metric exceeds predefined thresholds, the script logs an alert message to
 ## 📥 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/system-health-monitor.git
+git clone https://github.com/Bhavani2909/Task2.1-SystemHealthMonitor.git
 cd system-health-monitor
 ```
 
@@ -38,12 +38,12 @@ cd system-health-monitor
 ## ▶️ Usage
 Run the script:
 ```bash
-./system_health_monitor.sh
+./system_monitor.sh
 ```
 
 You may need to make it executable first:
 ```bash
-chmod +x system_health_monitor.sh
+chmod +x system_monitor.sh
 ```
 
 ---
@@ -74,7 +74,7 @@ DISK_THRESHOLD=80
 ## 📂 File Structure
 ```
 system-health-monitor/
-│── system_health_monitor.sh   # Main script
+│── system_monitor.sh   # Main script
 │── README.md                  # Documentation
 │── logs/                      # (Optional) Log files
 ```
